@@ -28,7 +28,6 @@
 
 ### Тема: "Node.js"
 
-    <h2 id="%D0%B4%D0%B7-nodejs">ДЗ: Node.js</h2>
 <ol>
 <li>Установить npm и Node.js:
 <ul>
